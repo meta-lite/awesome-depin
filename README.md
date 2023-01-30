@@ -6,6 +6,8 @@ Awesome TIPIN
 * [EdgeFi](https://medium.com/borderless-capital/edgefi-597b9c747a94)
 * [PoPW](https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0)
 * [TIPIN](https://medium.com/@tipinindex/a-new-way-to-build-and-maintain-infrastructure-tipin-476b9f6d6a80)
+* https://djxxxcq4cejjwy32oubyyq4jroeacx6pzedcqnkgzy2qfwcegomq.arweave.net/Gm97ihwREptjenUDjEOJi4gBX8_JBig1Rs41AthEM5k
+
 
 ### DeWi
 * [Network Design](https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4)
