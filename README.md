@@ -1,12 +1,12 @@
 # awesome-depin
 Awesome TIPIN
 
-## General TIPIN Resources
-* [TIPIN (Parley)](https://parleylabs.com/blog/what-is-tipin)
+## General DePIN Resources
+* [TIPIN: Parley Labs](https://parleylabs.com/blog/what-is-tipin)
 * [EdgeFi](https://medium.com/borderless-capital/edgefi-597b9c747a94)
 * [PoPW](https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0)
 * [TIPIN](https://medium.com/@tipinindex/a-new-way-to-build-and-maintain-infrastructure-tipin-476b9f6d6a80)
-* https://djxxxcq4cejjwy32oubyyq4jroeacx6pzedcqnkgzy2qfwcegomq.arweave.net/Gm97ihwREptjenUDjEOJi4gBX8_JBig1Rs41AthEM5k
+* [DeWi: Beyond Networks](https://djxxxcq4cejjwy32oubyyq4jroeacx6pzedcqnkgzy2qfwcegomq.arweave.net/Gm97ihwREptjenUDjEOJi4gBX8_JBig1Rs41AthEM5k)
 
 
 ### DeWi
