@@ -1,4 +1,4 @@
-# awesome-tipin
+# awesome-depin
 Awesome TIPIN
 
 ## General TIPIN Resources
