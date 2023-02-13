@@ -21,6 +21,8 @@ Awesome DePIN
 * [DeWi Progress Q4 2022](https://twitter.com/MessariCrypto/status/1584551839537967105)
 
 #### Helium
+* [Helium Website](https://www.helium.com/)
+* [Helium Explorer](https://explorer.helium.com/)
 * [Helium Ledger CLI](https://support.getmntd.com/hc/en-us/articles/7191028199191-Helium-Ledger-CLI)
 * [Helium - Solana Transition](https://www.relaydevice.com/resources/helium-solana-transition)
 * [Helium Modled 5G Coverage](https://coverage-explorer.herokuapp.com)
