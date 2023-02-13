@@ -20,7 +20,6 @@ Awesome DePIN
 * [Helium Ledger CLI](https://support.getmntd.com/hc/en-us/articles/7191028199191-Helium-Ledger-CLI)
 * [Helium - Solana Transition](https://www.relaydevice.com/resources/helium-solana-transition)
 * [Helium Modled 5G Coverage](https://coverage-explorer.herokuapp.com)
-* [The Hotspot Podcast](https://thehotspot.co)
 
 ## Podcasts
 * [Just the TIPIN (Coming Soon)](https://twitter.com/just_theTIPIN)
