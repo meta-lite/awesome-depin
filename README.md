@@ -7,6 +7,10 @@ Awesome DePIN
 * [PoPW](https://medium.com/alliancedao/how-can-popw-networks-win-fe2cc26393d0)
 * [TIPIN](https://medium.com/@tipinindex/a-new-way-to-build-and-maintain-infrastructure-tipin-476b9f6d6a80)
 * [DeWi: Beyond Networks](https://djxxxcq4cejjwy32oubyyq4jroeacx6pzedcqnkgzy2qfwcegomq.arweave.net/Gm97ihwREptjenUDjEOJi4gBX8_JBig1Rs41AthEM5k)
+* [TIPIN for Energy](https://medium.com/@tipinindex/the-revolutionary-potential-of-token-incentivized-physical-infrastructure-networks-for-the-energy-5b9b3d476aeb)
+* [TIPIN Mobility](https://medium.com/@tipinindex/unlocking-mobility-with-token-incentivized-physical-infrastructure-networks-375e4271c645)
+* [EV3 Research](https://ev3.xyz/)
+* [Parlay Labs Blog](https://parleylabs.com/blog/)
 
 ### DeWi
 * [Network Design](https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4)
