@@ -11,6 +11,8 @@ Awesome DePIN
 * [TIPIN Mobility](https://medium.com/@tipinindex/unlocking-mobility-with-token-incentivized-physical-infrastructure-networks-375e4271c645)
 * [EV3 Research](https://ev3.xyz/)
 * [Parlay Labs Blog](https://parleylabs.com/blog/)
+* [CMC DePIN](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-depin-decentralized-physical-infrastructure)
+* [Peaq DePIN](https://www.peaq.network/blog/what-are-decentralized-physical-infrastructure-networks-depin)
 
 ### DeWi
 * [Network Design](https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4)
