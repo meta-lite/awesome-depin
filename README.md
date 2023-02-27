@@ -14,6 +14,9 @@ Awesome DePIN
 * [CMC DePIN](https://coinmarketcap.com/alexandria/article/a-deep-dive-into-depin-decentralized-physical-infrastructure)
 * [Peaq DePIN](https://www.peaq.network/blog/what-are-decentralized-physical-infrastructure-networks-depin)
 
+### Compute
+* [DePIN Compute](https://omnida.substack.com/p/compute-legos-driving-the-next-phase)
+
 ### DeWi
 * [Network Design](https://funb2lnhmy2qmtsty6d36ksbo7msx2bmz3hjhd3xke6jtyfy.arweave.net/LRod_LadmNQZOU8eHvy-pBd9kr6Cz-OzpOPd1E8meC4)
 * [DeWi Adoption](https://twitter.com/RichhomieconE/status/1522732662129049601?s=20&t=5YUGQ7aZhK1rasW5TU4DEQ)
@@ -28,6 +31,10 @@ Awesome DePIN
 * [Helium Ledger CLI](https://support.getmntd.com/hc/en-us/articles/7191028199191-Helium-Ledger-CLI)
 * [Helium - Solana Transition](https://www.relaydevice.com/resources/helium-solana-transition)
 * [Helium Modled 5G Coverage](https://coverage-explorer.herokuapp.com)
+
+#### XNET
+* [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
+* [DAS Economics](https://medium.com/@XNET_Mobile/upending-das-economics-with-xnet-9c6944b3ce0a)
 
 ## Podcasts
 * [Just the TIPIN (Coming Soon)](https://twitter.com/just_theTIPIN)
