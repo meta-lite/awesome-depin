@@ -31,6 +31,8 @@ Awesome DePIN
 * [Helium Ledger CLI](https://support.getmntd.com/hc/en-us/articles/7191028199191-Helium-Ledger-CLI)
 * [Helium - Solana Transition](https://www.relaydevice.com/resources/helium-solana-transition)
 * [Helium Modled 5G Coverage](https://coverage-explorer.herokuapp.com)
+* [5G Coverage Mapping](https://poc-5g-mapper.herokuapp.com/)
+* [Wallet Migration Tool](https://migration.web.test-helium.com/helium/)
 
 #### XNET
 * [Investment Memo](https://connorbuildsinpublic.substack.com/p/xnet-investment-memo-the-road-less?r=f0hjx&utm_campaign=post&utm_medium=web)
